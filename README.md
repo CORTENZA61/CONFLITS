@@ -1,3 +1,4 @@
+LOCAL
 # CONFLITS
 QUETE Github 5
 Hello World.
